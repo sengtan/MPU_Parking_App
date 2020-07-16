@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "816945509972",
+    "firebase_url": "https://mpusmartparking.firebaseio.com",
+    "project_id": "mpusmartparking",
+    "storage_bucket": "mpusmartparking.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:816945509972:android:40100ffddfa880cfeedfc1",
+        "android_client_info": {
+          "package_name": "com.mpu"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "816945509972-g9miqvrlvv22g9dpvmmf6p86i9gqsb99.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.mpu",
+            "certificate_hash": "cf8ee22203ffa735cb1acefc8bf420ad9ddf9af4"
+          }
+        },
+        {
+          "client_id": "816945509972-d28b0gk3u8bk0dlsoj8aqqmlr0mjubtt.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBDsLI34T6XRmXW-453ncp9qE_7-rM7pV0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "816945509972-d28b0gk3u8bk0dlsoj8aqqmlr0mjubtt.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
